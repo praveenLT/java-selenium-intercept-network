@@ -1,4 +1,4 @@
-# Java-Selenium-Sample
+# How to intercept network with Selenium Java on LambdaTest cloud.
 ![Java](https://www.lambdatest.com/support/assets/images/og-images/Java-with-Selenium-1-1.jpg)
 
 ### Prerequisites
