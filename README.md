@@ -14,7 +14,7 @@
     ```
 ### Intercept network requests
 
-The following code can be used to interecept network requests:
+The following code can be used to intercept network requests:
 ```java
 DevTools devTools = ((HasDevTools) driver).getDevTools();
 devTools.createSession();
